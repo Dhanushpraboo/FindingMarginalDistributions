@@ -59,6 +59,7 @@ print("The coefficient of Correlation is  %0.4f"%r)
 
 # Output : 
 ![output](pqm3.png)
-#Result:
+
+# Result:
 Marginal distributions and correation coefficient of joint probability mass funcition of two dimensional random variables was implemented successfully.
 
